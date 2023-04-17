@@ -1,1 +1,3 @@
-creating a website with node js using a prebuilt weatherapi
+# Weather App
+
+Creating a website with node js using a prebuilt weatherapi
